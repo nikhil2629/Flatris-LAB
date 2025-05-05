@@ -9,7 +9,7 @@ trigger:
 pool:
   name: Default
   demands:
-    - agent.name -equals vsts-agent-linux-x64-4.255.0
+    - agent.name -equals C:\Users\iamni\Desktop\git clones\DevOps-Projects\Flatris-LAB\myagent
 
 
 steps:
