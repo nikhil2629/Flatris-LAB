@@ -9,8 +9,7 @@ trigger:
 pool:
   name: Default
   demands:
-    - agent.name -equals C:\Users\iamni\Desktop\git clones\DevOps-Projects\Flatris-LAB\myagent
-
+    - agent.name -equals Asus-Machine
 
 steps:
 - task: NodeTool@0
